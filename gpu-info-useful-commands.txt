@@ -1,0 +1,6 @@
+1) xpu-smi discovery -d0
+2) xpu-smi topology -m
+3) xpu-smi diag -d0 --stress
+4) xpu-smi stats -d0
+
+
